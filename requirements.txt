@@ -1,0 +1,6 @@
+# School Programmes Chatbot
+# This project uses only Python standard library - no external dependencies required
+
+# If you want to enhance the chatbot with a web interface in the future:
+# flask==2.3.0
+# python-dotenv==1.0.0
