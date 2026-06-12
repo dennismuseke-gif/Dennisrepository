@@ -1,0 +1,52 @@
+{
+  "school_programmes": [
+    {
+      "id": 1,
+      "name": "Bachelor of Science in Computer Science",
+      "duration": "4 years",
+      "description": "Learn programming, databases, software engineering, and AI",
+      "subjects": ["Python", "Java", "Database Design", "Machine Learning", "Web Development"],
+      "career_paths": ["Software Developer", "Data Scientist", "System Administrator"]
+    },
+    {
+      "id": 2,
+      "name": "Bachelor of Science in Mathematics",
+      "duration": "4 years",
+      "description": "Study pure and applied mathematics with strong analytical skills",
+      "subjects": ["Calculus", "Algebra", "Statistics", "Discrete Mathematics", "Numerical Analysis"],
+      "career_paths": ["Mathematician", "Data Analyst", "Actuary", "Engineer"]
+    },
+    {
+      "id": 3,
+      "name": "Bachelor of Arts in Business Administration",
+      "duration": "4 years",
+      "description": "Prepare for leadership roles in business and management",
+      "subjects": ["Accounting", "Marketing", "Management", "Finance", "Business Strategy"],
+      "career_paths": ["Business Manager", "Entrepreneur", "Financial Analyst", "Marketing Manager"]
+    },
+    {
+      "id": 4,
+      "name": "Bachelor of Science in Nursing",
+      "duration": "4 years",
+      "description": "Healthcare education focused on patient care and medical knowledge",
+      "subjects": ["Anatomy", "Pharmacology", "Patient Care", "Medical Ethics", "Clinical Practice"],
+      "career_paths": ["Registered Nurse", "Clinical Specialist", "Healthcare Administrator"]
+    },
+    {
+      "id": 5,
+      "name": "Bachelor of Engineering in Civil Engineering",
+      "duration": "4 years",
+      "description": "Design and build infrastructure, buildings, and bridges",
+      "subjects": ["Structural Design", "Materials Science", "Project Management", "CAD", "Surveying"],
+      "career_paths": ["Civil Engineer", "Project Manager", "Structural Engineer", "Construction Manager"]
+    },
+    {
+      "id": 6,
+      "name": "Bachelor of Arts in English Literature",
+      "duration": "4 years",
+      "description": "Explore literature, writing, and communication skills",
+      "subjects": ["Literature Analysis", "Creative Writing", "Linguistics", "Drama", "Communication"],
+      "career_paths": ["Writer", "Editor", "Teacher", "Journalist", "Content Creator"]
+    }
+  ]
+}
